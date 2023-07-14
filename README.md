@@ -2,8 +2,6 @@
 
 It shows how to build a sentiment analysis machine learning model by using a pubic dataset and how to deploy it to production with AWS Lambda and API Gateway.
 
-![Frontend Screenshot](frontend/screenshot.png?raw=true)
-
 ## How to install requirements
 
 OS libraries can be installed as follows (Linux):
