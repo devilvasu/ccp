@@ -47,4 +47,7 @@ Once the deployment package is ready, you can create a new AWS Lambda function a
 
 * [Amazon Serverless Architecture](http://cloudacademy.com/blog/amazon-serverless-api-gateway-lambda-cloudfront-s3/) (Cloud Academy blog)
 
+#output
+![Frontend Screenshot](frontend/screenshot.png?raw=true)
+
 * [Google Cloud Functions VS AWS Lambda](http://cloudacademy.com/blog/google-cloud-functions-serverless/) (Cloud Academy blog)
